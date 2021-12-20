@@ -14,6 +14,30 @@ I'm Won Jongseo, 25 years old,  I am in major of computer science n the 4th grad
 🌱 私はノードジェイエスのエクスプレスを通じてbackendサーバの開発を学んで練習しています。<br>
  私はフルステックの開発者がなりたいです <br>
  ありがとうございます
+ 
+こんにちは、私は世宗大学コンピューター工学科4年生25歳ウォンジョンソと申します。
+今感心を持っているframeWorkはjavaのspringbootございます。
+今から学校そして自ら勉強した言語はC,　JAVA, NodeJs , MongoDB , HTML, CSS , React, apollo graphqlございます。
+NODEJSのEXPRESSを使ってREAL TIME CHATTING APPを作った経験があります。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 안녕하세요 👋
 
