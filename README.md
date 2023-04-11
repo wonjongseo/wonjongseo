@@ -3,7 +3,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in WEB, and APP.🚀<br/>
-  I live in Japan and I have experience 0.4 years of fullstack development.<br/>
+  I live and work in Japan since 2022.11 <br/>
   Originally, I was a backend developer who used Springs or NodeJs.<br/>
   But at present, I have been interested in creating App with Flutter.<br/>
   I enjoy drinking, watching cartune. ⛰ 🏄<br/>
