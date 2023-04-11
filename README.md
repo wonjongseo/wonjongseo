@@ -6,7 +6,7 @@
   I live and work in Japan since 2022.11 <br/>
   Originally, I was a backend developer who used Springs or NodeJs.<br/>
   But at present, I have been interested in creating App with Flutter.<br/>
-  I enjoy drinking, watching cartune. ⛰ 🏄<br/>
+  I enjoy drinking, watching Japanese animation. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
