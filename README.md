@@ -10,9 +10,11 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
+<p>
+  Please see My Profile to know who am i → <a href="https://wonjongseo.netlify.app/#/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+</p>
 
 <p>
-  <a href="https://wonjongseo.netlify.app/#/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:visionwill3322@gmail.com" target="_blank"><img src="https://img.shields.io/badge/visionwill3322@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
