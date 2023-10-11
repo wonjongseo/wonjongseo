@@ -1,4 +1,4 @@
-### 🤞 Hello My Friends (Enlgish)
+### 🤞 Hello My Friends (English)
 
 
 <p>
