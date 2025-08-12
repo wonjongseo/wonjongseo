@@ -1,6 +1,5 @@
-### 🤞 안녕하세요! 모든 개발자 여러분~
+Hi~
 
-### 💪 Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Spring-4695EB?style=flat-square&logo=Spring&logoColor=white"/>
